@@ -1,0 +1,7 @@
+{
+  "type": "azure",
+  "model": "gpt-4",
+  "endpoint": "https://ai-cmccullougheastus2991372611389.openai.azure.com",
+  "apikey": "4b67701050de4889b8a619d028e0234c",
+  "org": ""
+}
